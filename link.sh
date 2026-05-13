@@ -1,1 +1,1 @@
-ld -m elf_i386 practice7.o -o practice7
+ld -m elf_i386 practice11.o -o practice11
