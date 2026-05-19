@@ -1,0 +1,1 @@
+ld -m elf_i386 practice15.o -o practice15
